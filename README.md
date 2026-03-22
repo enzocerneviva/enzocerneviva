@@ -14,7 +14,7 @@ Sou estudante de Ciência da Computação e desenvolvedor de software, estou con
 - 🔹 [GeoRelato](https://github.com/enzocerneviva/GeoRelato)  
   Um sistema em C (interface CLI) que permite cadastro e consulta de relatos de catástrofes naturais junto com um cálculo de coordenadas que diz quais relatos estão a um raio de até 10 Km. A ideia do projeto é mostrar que é possível facilitar o alerta de catástrofes naturais para as pessoas e possivelmente salvar vidas através da tecnologia.
 
-- 🔹 [SentimentClassifier](https://github.com/enzocerneviva/SentimentClassifier)
+- 🔹 [SentimentClassifier](https://github.com/enzocerneviva/SentimentClassifier)  
   Treinamento de um modelo de Regressão Logística utilizando embeddings para converter frases em representações vetorias numéricas para realizar a classificação. O objetivo aqui é classificar frases do dia a dia como positivas ou negativas. Exemplo: 'Gostei muito da viagem!' ---> Resultado: Positivo.
 ---
 
