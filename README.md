@@ -11,7 +11,7 @@ Sou estudante de Ciência da Computação e desenvolvedor de software, estou con
 - 🔹 [EnergyTime](https://github.com/enzocerneviva/EnergyTime)   
   Um projeto em parceria com a GoodWe que visa a criação de um sistema simulado de integração com inversores, baterias e paineis solares dos seus clientes para visualização de dados e monitoramento. Além disso integramos o sistema com a Alexa, e treinamos um modelo de classificação para previsões de quedas de energia baseado na previsão do tempo
 
-- 🔹 [GeoRelato]((https://github.com/enzocerneviva/GeoRelato))  
+- 🔹 [GeoRelato](https://github.com/enzocerneviva/GeoRelato)  
   Um sistema em C (interface CLI) que permite cadastro e consulta de relatos de catástrofes naturais junto com um cálculo de coordenadas que diz quais relatos estão a um raio de até 10 Km. A ideia do projeto é mostrar que é possível facilitar o alerta de catástrofes naturais para as pessoas e possivelmente salvar vidas através da tecnologia.
 
 - 🔹 [SentimentClassifier](https://github.com/enzocerneviva/SentimentClassifier)
