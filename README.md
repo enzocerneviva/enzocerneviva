@@ -43,12 +43,12 @@ Sou estudante de Ciência da Computação e desenvolvedor de software, estou con
 <p>
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=enzocerneviva&show_icons=true&theme=tokyonight&include_all_commits=true"
   />
   
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzocerneviva&layout=compact&theme=tokyonight"
   />
 </p>
 
