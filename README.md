@@ -1,4 +1,4 @@
-# 👨‍💻 Enzo Cerneviva
+# Enzo Cerneviva
 
 **`Software Developer and Computer Science Student at FIAP`**
 
