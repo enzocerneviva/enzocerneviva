@@ -2,7 +2,7 @@
 
 **`Software Developer and Computer Science Student at FIAP`**
 
-Sou estudante de Ciência da Computação e desenvolvedor de software, estou construindo projetos e construindo minha carreira na área de tecnologia, segue abaixo informações de alguns projetos e stats da minha carreira até o momento pelo GitHub, o perfil segue em desenvolvimento.
+Sou estudante de Ciência da Computação e desenvolvedor de software, estou construindo minha carreira na área de tecnologia, segue abaixo informações de alguns projetos que fiz no meu trajeto até o momento pelo GitHub, o perfil segue em desenvolvimento.
 
 ---
 
