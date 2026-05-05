@@ -43,8 +43,6 @@ Sou estudante de Ciência da Computação e desenvolvedor de software, estou con
 
 ## 📊 Estatísticas
 
-## 📊 Estatísticas
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=enzocerneviva&show_icons=true&theme=tokyonight&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzocerneviva&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook)
